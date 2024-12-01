@@ -1,0 +1,7 @@
+name: '${plugin_name}'
+version: '${plugin_version}'
+main: '${plugin_main_class}'
+api-version: 1.13
+authors: ['Fronsky (r)']
+website: 'https://fronsky.com/software/spigot_framework'
+description: 'This is the official Fronsky (r) Spigot Framework.'
